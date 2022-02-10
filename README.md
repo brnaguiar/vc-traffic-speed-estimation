@@ -1,4 +1,4 @@
 # vc-traffic-speed-estimation
 
 
-![Alt Text](https://i.imgur.com/NeQh3jz.png)
+![Alt Text](https://i.imgur.com/NeQh3jz.png | width=100)
